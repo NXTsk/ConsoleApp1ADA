@@ -8,6 +8,7 @@ namespace ConsoleApp1ADA
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Som hladný :-)");
+            Console.ReadLine();
         }
     }
 }
