@@ -7,6 +7,7 @@ namespace ConsoleApp1ADA
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Som hladný :-)");
         }
     }
 }
